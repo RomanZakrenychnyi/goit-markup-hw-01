@@ -1,1 +1,1 @@
-# My second repository
+# Мій перший(оновлений) репозиторій на GitHub)))
